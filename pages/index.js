@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+<script defer data-domain="thirsty-austin-8af7ff.netlify.app" src="https://plausible.io/js/plausible.js"></script>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
